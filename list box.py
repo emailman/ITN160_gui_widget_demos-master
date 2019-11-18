@@ -1,4 +1,4 @@
-# Logan Smith
+
 # 11-15-19
 # ITN-160
 # From github guizero on example on listbox

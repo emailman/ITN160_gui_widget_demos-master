@@ -1,5 +1,4 @@
 '''
-Georgia Mackay
 Assignment 9 - GUI Widgets Presentation
 11/17/19
 '''

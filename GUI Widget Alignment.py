@@ -1,11 +1,11 @@
 """GUI Widget Presentation: Widget Alignment
-   Robert Vanderhost Jr
    ITN 160 Programming I
    11/16/2019"""
 
 
 # Import guizero library
 import guizero
+from guizero import *
 
 
 # Create the widget that will contain the aligned text
@@ -22,6 +22,7 @@ bottom_alignment.text_color = 'dark violet'
 bottom_alignment.text_size = 15
 
 # Set the alignment, size, and color for the "Left Alignment" text
+buttn1 = PushButton(app, align='right')
 left_alignment = guizero.Text(app, text='LEFT ALIGNMENT', align='left')
 left_alignment.text_color = 'blue2'
 left_alignment.text_size = 15

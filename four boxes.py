@@ -1,4 +1,4 @@
-# Corey Maxwell
+
 # 11/17/2019
 # ITN 160
 # Guizero Assignment
